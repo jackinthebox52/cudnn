@@ -1,0 +1,6 @@
+script/
+pkg/
+src/
+*.pkg.tar.zst
+*archive.tar.xz
+.SRCINFO
